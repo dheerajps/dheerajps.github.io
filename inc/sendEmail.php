@@ -1,5 +1,5 @@
 ﻿<?php
-
+header('Access-Control-Allow-Origin: *');
 // Replace this with your own email address
 $siteOwnersEmail = 'dpstm3@mail.missouri.edu';
 
